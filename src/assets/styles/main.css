@@ -1,3 +1,12 @@
 @import "modules/_reset";
 @import "modules/_variables";
 @import "modules/_base";
+@import "modules/_container";
+@import "modules/_sidebar";
+@import "modules/_header";
+@import "modules/_realtors";
+@import "modules/_features";
+@import "modules/_story";
+@import "modules/_catalog";
+@import "modules/_gallery";
+@import "modules/_footer";
