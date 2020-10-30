@@ -6,6 +6,8 @@
 @import "modules/_header";
 @import "modules/_realtors";
 @import "modules/_features";
+@import "modules/_feature";
+@import "modules/_heading-4";
 @import "modules/_story";
 @import "modules/_catalog";
 @import "modules/_gallery";
