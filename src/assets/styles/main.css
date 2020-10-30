@@ -14,5 +14,6 @@
 @import "modules/_feature";
 @import "modules/_story";
 @import "modules/_catalog";
+@import "modules/_card";
 @import "modules/_gallery";
 @import "modules/_footer";
