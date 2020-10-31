@@ -1,0 +1,32 @@
+.hamburger {
+  display: block;
+
+  width: 4.5rem;
+  height: 2px;
+  margin-top: 4rem;
+
+  border: none;
+  border-radius: 0;
+  background-color: #ffffff;
+
+  cursor: pointer;
+
+  &::before,
+  &::after {
+    content: "";
+    display: block;
+
+    width: 4.5rem;
+    height: 2px;
+
+    background-color: #ffffff;
+  }
+
+  &::before {
+    transform: translateY(-1.5rem);
+  }
+
+  &::after {
+    transform: translateY(1.3rem);
+  }
+}
